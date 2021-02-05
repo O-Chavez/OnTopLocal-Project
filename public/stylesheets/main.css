@@ -276,7 +276,12 @@ body {
 
 @media only screen and (max-width: 1000px){
   .footerIcons{
-    padding: 0 0 1rem 0;
+    padding: 0 0 5em 0;
+    /* margin-bottom: 2em; */
+
+  }
+  .banner3::before, .main-banner::before, .summary::before {
+    height: 100vh;
   }
 }
 
