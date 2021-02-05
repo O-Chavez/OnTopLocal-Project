@@ -265,7 +265,7 @@ body {
     padding: 0 0 5em 0;
   }
   .banner3::before, .main-banner::before, .summary::before {
-    background-size: 150vw 250vw;
+    background-size: 100vw 100vh;
   }
   .main-banner, .summary{
     height: 30em;
