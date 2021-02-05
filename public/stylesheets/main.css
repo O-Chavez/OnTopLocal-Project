@@ -270,11 +270,9 @@ body {
   .main-banner, .summary{
     height: 30em;
   }
-  .banner-text::before{
-    backdrop-filter: blur(3px);
-  }
   .banner-text h1 {
     padding: .5em;
+    font-size: large;
   }
 }
 
